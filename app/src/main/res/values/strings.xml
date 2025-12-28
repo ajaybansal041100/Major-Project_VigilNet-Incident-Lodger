@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">VigilNet</string>
+    <string name="widget_panic_label">SOS</string>
+    <string name="sos_text">SOS</string>
+</resources>

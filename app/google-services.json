@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "248378266474",
+    "project_id": "vigilnetsafetyapp",
+    "storage_bucket": "vigilnetsafetyapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:248378266474:android:e105e3730bef38f05a0b13",
+        "android_client_info": {
+          "package_name": "com.vigilnet.vigilnet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCh4c7dMG0icdCJ7C-MEqB-1ztaLtEGYJo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
